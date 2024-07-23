@@ -8,9 +8,9 @@ Base.metadata.create_all(bind=engine)
 default_ingredients = [
     {'name': 'Говядина', 'price': 4000},
     {'name': 'Говядина мякоть', 'price': 0},
-    {'name': 'Горох', 'price': 0},
+    {'name': 'Горох', 'price': 400},
     {'name': 'Гречка', 'price': 0},
-    {'name': 'Капуста', 'price': 0},
+    {'name': 'Капуста', 'price': ""},
     {'name': 'Картофель', 'price': 0},
     {'name': 'Кисель из концентрата', 'price': 0},
     {'name': 'Кислота лимонная', 'price': 0},
