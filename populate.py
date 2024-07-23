@@ -10,7 +10,7 @@ default_ingredients = [
     {'name': 'Говядина мякоть', 'price': 0},
     {'name': 'Горох', 'price': 400},
     {'name': 'Гречка', 'price': 0},
-    {'name': 'Капуста', 'price': ""},
+    {'name': 'Капуста', 'price': 0},
     {'name': 'Картофель', 'price': 0},
     {'name': 'Кисель из концентрата', 'price': 0},
     {'name': 'Кислота лимонная', 'price': 0},
