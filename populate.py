@@ -6,7 +6,7 @@ Base.metadata.create_all(bind=engine)
 
 # Default data to be inserted
 default_ingredients = [
-    {'name': 'Говядина', 'price': 0},
+    {'name': 'Говядина', 'price': 4000},
     {'name': 'Говядина мякоть', 'price': 0},
     {'name': 'Горох', 'price': 0},
     {'name': 'Гречка', 'price': 0},
