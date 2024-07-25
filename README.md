@@ -20,3 +20,13 @@ Backend: Python
 Database: SQLite (default, can be changed to PostgreSQL or MySQL)
 
 Frontend: Streamlit - A faster way to build and share data apps.
+
+**Try it online**
+
+https://school-canteen.streamlit.app/
+
+**Contact**
+
+For any inquiries or support, please contact by email aiganym.kassymbayeva@nu.edu.kz .
+
+
