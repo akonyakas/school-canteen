@@ -17,8 +17,6 @@ Reporting: Generate detailed reports on the cost breakdown for different periods
 
 Backend: Python
 
-Database: SQLite (default, can be changed to PostgreSQL or MySQL)
-
 Frontend: Streamlit - A faster way to build and share data apps.
 
 **Try it online**
